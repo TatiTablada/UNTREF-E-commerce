@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sneakers Revolution</title>
+    <script src="https://kit.fontawesome.com/995018aba6.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+        <h1 class="logo">Sneakers Revolution</h1>
+            <header>
+                <h1>Sneakers Revolution</h1>
+                <nav>
+                    <ul class="menu">
+                        <li>
+                            <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todos los productos</button>
+                        </li>
+                        <li>
+                            <button id="mujer" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Mujer</button>
+                        </li>
+                        <li>
+                            <button id="hombre" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Hombre</button>
+                        </li>
+                        <li>
+                            <button id="niños" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i>Niños</button>
+                        </li>
+                        <li>
+                            <a class="boton-menu boton-carrito" href="./carrito.html">
+                                <i class="fa-solid fa-cart-shopping"></i><span id="numerito" class="numerito">0</span>
+                            </a>
+                        </li>
+                    </ul>
+                </nav>
+            </header>
+                
+            <main>
+                <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+                <div id="contenedor-productos" class="contenedor-productos">
+                    <!-- Esto se va a rellenar con JS -->
+                </div>
+                <div class="pagina-producto disabled">
+                    <!-- Esto se va a rellenar con JS -->
+                    
+                </div>
+                <a class="disabled" id="atras" href="./index.html">
+                    <i class="fa-solid fa-arrow-left"></i>  Volver
+                </a>
+            </main>
+
+            <footer>
+                <ul>
+                    <h3 class="social-media-titulo">Seguinos en nuestras redes sociales</h3>
+                    <div class="social-media">
+                        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    </div>
+                    </ul>
+                    
+                    <section class="contact">
+                        <p><i class="fa-solid fa-location-dot"></i>  Calle Principal, 123</p>
+                        <p><i class="fa-solid fa-phone fa-rotate-270"></i>  (123) 456-7890</p>
+                        <p><i class="fa-solid fa-envelope"></i>  SneakersRevolution@gmail.com</p>
+                    </section>
+        
+                    <p class="derechos-copy"><i class="fa-regular fa-copyright"></i>  2023 Sneaker Revolution. Todos los derechos reservados</p>
+        
+            </footer>
+
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>

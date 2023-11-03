@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sneakers Revolution</title>
+    <script src="https://kit.fontawesome.com/995018aba6.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">Sneakers Revolution</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <h1 class="logo">Sneakers Revolution</h1>
+                <nav>
+                    <a class="boton-menu boton-volver" href="./index.html">
+                     <i class="fa-solid fa-arrow-left"></i>  Volver
+                    </a>
+                </nav>
+            </header>
+
+            <main>
+                <h2 class="titulo-principal">Carrito</h2>
+                <div class="contenedor-carrito">
+                <p id="carrito-vacio" class="carrito-vacio">Tu carrito está vacío.</p>
+                
+                <div id="carrito-productos" class="carrito-productos disabled">
+                    <!-- Esto se va a completar con el JS -->
+                </div>
+                
+                <div id="carrito-acciones" class="carrito-acciones disabled">
+                    <div class="carrito-acciones-izquierda">
+                        <button id="carrito-acciones-vaciar" class="carrito-acciones-vaciar">Vaciar carrito</button>
+                    </div>
+                    <div class="carrito-acciones-derecha">
+                        <div class="carrito-acciones-total">
+                            <p>Total:</p>
+                            <p id="total">$3000</p>
+                        </div>
+                        <button id="carrito-acciones-comprar" class="carrito-acciones-comprar">Comprar</button>
+                    </div>
+                </div>
+
+                <p id="carrito-comprado" class="carrito-comprado disabled">Muchas gracias por tu compra.</p>
+
+            </div>
+        </main>
+    </div>
+
+    <footer>
+        <ul class="social-media">
+            <h3>Seguinos en nuestras redes sociales</h3>
+            <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+            <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+            </ul>
+            
+            <section class="contact">
+                <p><i class="fa-solid fa-location-dot"></i>  Calle Principal, 123</p>
+                <p><i class="fa-solid fa-phone fa-rotate-270"></i>  (123) 456-7890</p>
+                <p><i class="fa-solid fa-envelope"></i>  SneakersRevolution@gmail.com</p>
+            </section>
+
+            <p class="derechos-copy"><i class="fa-regular fa-copyright"></i>  2023 Sneaker Revolution. Todos los derechos reservados</p>
+
+    </footer>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/carrito.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>

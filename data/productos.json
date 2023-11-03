@@ -1,0 +1,192 @@
+[
+    {
+        "id": "zapa-01",
+        "titulo": "Adidas Superstar",
+        "imagen": "./multimedia/adidas-superstar.jpg",
+        "categoria": {
+            "nombre": "Mujer",
+            "id": "mujer"
+        },
+        "precio": 84999,
+        "descripcion":"Las zapatillas Adidas Superstar son parte de un modelo de estilo urbano, su comodidad y reconocible aspecto las han convertido en un icono de la moda urbana."
+    },
+    {
+        "id": "zapa-02",
+        "titulo": "Adidas Continental 80",
+        "imagen": "./multimedia/adidas-continental-80.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "hombre"
+        },
+        "precio": 21999,
+        "descripcion":"Las zapatillas Adidas Continental 80 son un modelo retro de estilo clasico que evoca la moda deportiva de los años 80. Son ideales para combinar con una variedad de conjuntos casuales."
+    },
+    {
+        "id": "zapa-03",
+        "titulo": "Adidas Everyset Trainer",
+        "imagen": "./multimedia/zapatillas-adidas-everyset-trainer-mujer.jpg",
+        "categoria": {
+            "nombre": "Mujer",
+            "id": "mujer"
+        },
+        "precio": 64000,
+        "descripcion":"Si estás listo para comenzar tu viaje en el mundo del fitness, estas zapatillas Adidas son perfectas para vos. Presentan un diseño estable para que te sientas seguro en el gimnasio, ya sea probando nuevas máquinas o aprendiendo a ejercitarte con las pesas. El tejido exterior es suave, transpirable y muy cómodo. La forma plana crea una sensación de estabilidad, para que puedas concentrarte en tu ejercicio."
+    },
+    {
+        "id": "zapa-04",
+        "titulo": "New Balance 327",
+        "imagen": "./multimedia/new-balance-327.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "hombre"
+        },
+        "precio": 45000,
+        "descripcion":"Estas zapatillas son conocidas por su estilo vintage y versatilidad para combinar con diferentes looks casuales"
+    },
+    {
+        "id": "zapa-05",
+        "titulo": "Nike Jordan Off-White Sail",
+        "imagen": "./multimedia/jordan-off-white-sail.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "hombre"
+        },
+        "precio": 120000,
+        "descripcion":"Las zapatillas Jordan 5 Off-White Sail es una colaboracion entre la iconica marca Jordan y Off-White. Fusionan la herencia deportiva de Jordan con la estetica de diseño vanguardista de Off-White, creando un par de zapatillas de edicion limitada con estilo distintivo y contemporaneo."
+    },
+    {
+        "id": "zapa-06",
+        "titulo": "Puma Rs-x reinvent",
+        "imagen": "./multimedia/puma-rs-x-reinvent-mujer.jpg",
+        "categoria": {
+            "nombre": "Mujer",
+            "id": "mujer"
+        },
+        "precio": 50000,
+        "descripcion":"Las zapatillas Rs-x Reinvent 1410 combinan estilo retro con elementos modernos de diseño tecnologia, ofrecen durabilidad y comodidad. Son la mejor opcion para quienes buscan confort y rendimiento."
+    },
+    {
+        "id": "zapa-07",
+        "titulo": "Nike Luna Charge Essential",
+        "imagen": "./multimedia/nike-nike-lunarcharge-essential.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "hombre"
+        },
+        "precio": 70000,
+        "descripcion":"Estas zapatillas tienen un diseño contemporáneo que combina elementos de otros modelos de Nike, como las Nike Air Max y las Nike Air Presto. Está fabricada con materiales de alta calidad, como malla transpirable y materiales sintéticos. Esto no solo proporciona comodidad, sino también durabilidad."
+    },
+    {
+        "id": "zapa-08",
+        "titulo": "Puma Smash V2 L",
+        "imagen": "./multimedia/puma-smash-V2L.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "hombre"
+        },
+        "precio": 20000,
+        "descripcion":"Aunque su diseño es simple, las Puma Smash V2 L suelen contar con un acolchado en la lengüeta y el cuello para proporcionar comodidad durante todo el día. Son un modelo clásico y versátil que destaca por su diseño atemporal, su parte superior de cuero de alta calidad y su cierre de velcro conveniente. Son ideales para aquellos que buscan un calzado deportivo cómodo y elegante para uso diario o actividades deportivas más ligeras."
+    },
+    {
+        "id": "zapa-09",
+        "titulo": "Adidas Superstar Niño",
+        "imagen": "./multimedia/zapatilla-niño-adidas-superstar.jpg",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 20000,
+        "descripcion":"Las Adidas Superstar para niños son una opción versátil y a la moda que combina comodidad y estilo, perfectas para los más jóvenes amantes de la moda y el deporte."
+    },
+    {
+        "id": "zapa-10",
+        "titulo": "Kappa Maserta",
+        "imagen": "./multimedia/zapatilla-niño-kappa maserta apricot.jpg",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 15000,
+        "descripcion":"Las Zapatillas Kappa Logo Maserta son ideales para niños activos que buscan comodidad y estilo en sus actividades diarias. Su diseño ligero y flexible garantiza una gran libertad de movimiento, lo que las convierte en una excelente opción para actividades deportivas y de recreación."
+    },
+    {
+        "id": "zapa-11",
+        "titulo": "Puma Fun Racer",
+        "imagen": "./multimedia/zapatilla-niño-puma-fun-racer.jpg",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 14000,
+        "descripcion":"Las zapatilas Puma Fun Racer son ideales para las actividades diarias. Ofrecen flexibilidad y estabilidad para los pies de los niños pequeños. ¡El zapato perfecto para el patio de recreo!"
+    },
+    {
+        "id": "zapa-12",
+        "titulo": "Topper X Force",
+        "imagen":"./multimedia/zapatilla-niño-topper-xforce.jpg",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 10000,
+        "descripcion":"Diseñadas para el uso diario e intensivo, ideal para uso colegial. Confort y seguridad en cada pisada. Mantiene el pie fresco y seco en el uso intensivo."
+    },
+    {
+        "id": "zapa-13",
+        "titulo": "Topper Boris",
+        "imagen": "./multimedia/zapatilla-niño-topper-boris.jpg",
+        "categoria": {
+            "nombre": "Niños",
+            "id": "niños"
+        },
+        "precio": 11000,
+        "descripcion":"Las Zapatillas Topper Boris se suman a la familia Boris Kids de Topper con cordones y un diseño inspirado en la década del 80, que combina deporte y moda para todas las actividades de los más chicos. La capellada de cuero sintético tiene refuerzos en las zonas de mayor desgaste para aportar durabilidad y la suela inyectada de PU mejora la amortiguación y el control de su pisadas."
+    },
+    {
+        "id": "zapa-14",
+        "titulo": "Puma Carina Street",
+        "imagen": "./multimedia/zapatillas-puma-carinastreet-mujer.jpg",
+        "categoria": {
+            "nombre": "Mujer",
+            "id": "mujer"
+        },
+        "precio": 50000,
+        "descripcion":"Las Zapatillas Urbanas Puma Carina Street cuentan con un diseño deportivo con una plataforma ligeramente elevada perfecta para tu día a día. Su capellada de sintético aporta máxima durabilidad y resistencia para que las emplees las veces que quieras y en cualquier situación. Además, la suela de goma brinda la tracción que necesitás para moverte libremente sobre todo tipo de pavimento. Su diseño clásico permite que luzcas un look sofisticado y canchero. Imponé tu estilo en cada salida."
+    },
+    {
+        
+        "id": "zapa-15",
+        "titulo": "Topper T Padel",
+        "imagen": "./multimedia/zapatillas-topper-t-padel-mujer.jpg",
+        "categoria": {
+            "nombre": "Mujer",
+            "id": "mujer"
+        },
+        "precio": 30000,
+        "descripcion":"Las Zapatillas Topper T-Padel tienen una capellada con malla para aportar transpirabilidad a tu juego y refuerzos en la puntera para brindarte una mayor estabilidad en movimientos rápidos por la cancha. Su suela optimiza tu tracción y te permite deslizarte plenamente para vencer a todos tus oponentes. Su diseño te hará sentir como un profesional dentro y fuera de la cancha."
+    },
+    {
+        
+        "id": "zapa-16",
+        "titulo": "Puma X-Ray",
+        "imagen": "./multimedia/zapatillas-PumaXRay-mujer.jpg",
+        "categoria": {
+            "nombre": "Mujer",
+            "id": "mujer"
+        },
+        "precio": 70000,
+        "descripcion":"Si tu estilo es actual y moderno, las Zapatillas Puma X-Ray 2 Square Unisex son perfectas para vos. Confeccionada con la mezcla de materiales sintéticos de alta calidad que te hará ver impecable a donde vayas. Este calzado es perfecto para combinarlas con tus mejores outfits urbanos. Además, su suela en goma te da mejor amortiguación y tracción en cada paso que das sobre el pavimento. Úsalas para tener estilo y comodidad garantizada."
+    },
+    {
+        
+        "id": "zapa-17",
+        "titulo": "Topper Dottir",
+        "imagen": "./multimedia/zapatilla-topper-dottir-hombre.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "hombre"
+        },
+        "precio": 30000,
+        "descripcion":"Aprovechá al máximo tus sesiones de entramiento con las Zapatillas Running Topper Dottir Ii Hombre. Con su capellada de malla de alta respirabilidad y su tecnología SKINNECT, podrás sentir la máxima sensación de confort y agilidad para que te muevas libremente y con mayor velocidad. La suela de goma ofrece una tracción inigualable sobre cualquier superficie, mientras que la entresuela de EVA amortigua tus pasos para brindarte una experiencia sensacional mientras caminás, corrés o realizás repeticiones en el gym. No lo pienses más, este calzado de alto rendimiento se convertirá en tu favorito a la hora de ejercitarte."
+    }
+]
